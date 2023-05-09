@@ -7,7 +7,7 @@ Challenge Submission Template
 ## Navigation
 - [examples](./examples)
     - Contains challenge documentation examples for OSINT, Static & Hosted Web Challenges
-- [template](./template)
+- [templates](./templates)
     - Contains the challenge submission templates challenge submission, please follow the template...
 
 ## Additional Notes
